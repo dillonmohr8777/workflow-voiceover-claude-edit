@@ -10,6 +10,7 @@ Work only inside this repository unless Dillon Mohr explicitly expands the scope
 - The 9:18 file is an earlier cut retained only for reference.
 - Put new experimental renders in `media/exports/` with descriptive, versioned filenames.
 - Preserve `docs/workflow-voiceover-clean-transcript.md` as the readable transcript. If an edit changes timing or wording, create a new version instead of silently changing the current record.
+- Treat `docs/account-manager-ai-plugin-playbook.md` as the primary organization-wide report. Keep it role-neutral, preserve client separation and approval gates, and update its recording-coverage appendix if new transcript content is added.
 - Update `EDIT_MANIFEST.md` whenever a new approved render is created.
 
 ## Editing requirements
@@ -33,4 +34,4 @@ Work only inside this repository unless Dillon Mohr explicitly expands the scope
 
 ## Useful context
 
-The video teaches account managers and other team members how to create personalized AI workflows using ChatGPT, Codex, role-specific integrations, Plan Mode, and supervised automation. The detailed content inventory is in `docs/workflow-voiceover-detailed-breakdown.md`.
+The video teaches Account Managers and other team members how to create repeatable AI workflows using ChatGPT, Codex, role-specific integrations, Plan Mode, and supervised automation. The generalized implementation report is `docs/account-manager-ai-plugin-playbook.md`; the source content inventory remains in `docs/workflow-voiceover-detailed-breakdown.md`.

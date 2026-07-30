@@ -1,14 +1,15 @@
 # Workflow Voiceover — Claude Editing Handoff
 
-This public repository contains Dillon Mohr's workflow-training screen recording, the current full-length captioned master, the untouched source, the earlier short cut, a cleaned transcript, and a detailed topic-by-topic breakdown.
+This public repository contains the workflow-training screen recording, the current full-length captioned master, the untouched source, the earlier short cut, a cleaned transcript, a source breakdown, and a generalized Account Manager implementation playbook.
 
 ## Contents
 
 - `media/original/workflow-voiceover-original.mp4` — untouched 15:43 source recording.
 - `media/final/workflow-voiceover-full-uncut-momentum-3d-captions.mp4` — current 15:43 master with no cuts, Momentum blue-and-yellow 3D captions, and the official transparent M360 logo.
 - `media/final/workflow-voiceover-edited-1080p.mp4` — earlier 9:18 cut, retained for reference.
+- `docs/account-manager-ai-plugin-playbook.md` — primary organization-wide Account Manager report, plugin catalog, advertising operating system, prompts, and rollout plan.
 - `docs/workflow-voiceover-clean-transcript.md` — cleaned readable transcript.
-- `docs/workflow-voiceover-detailed-breakdown.md` — complete subject inventory and follow-up checklist.
+- `docs/workflow-voiceover-detailed-breakdown.md` — source-evidence inventory of everything discussed in the recording.
 - `EDIT_MANIFEST.md` — technical edit record and ChatCut project identifiers.
 - `CLAUDE.md` — repository instructions for Claude Code.
 

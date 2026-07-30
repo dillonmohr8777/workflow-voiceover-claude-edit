@@ -1,5 +1,7 @@
 # Detailed Breakdown — Workflow Voiceover
 
+> Source-evidence companion: this file records what was said in the edited transcript. Use [Account Manager AI Workflow and Plugin Playbook](account-manager-ai-plugin-playbook.md) as the generalized organization-wide report and implementation guide.
+
 ## Edit summary
 
 - Original recording: **15:43**
